@@ -4,7 +4,6 @@ Share yours too*/
 
 function FirstFactorial(num) {
 
-    // code goes here 
     /* TO DO LIST
     1. Check condition for all scenarios where it is not advised
     2. If condition to iterate through the formula
